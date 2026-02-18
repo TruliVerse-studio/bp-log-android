@@ -11,18 +11,18 @@ No account, no cloud, no analytics. Your data stays on your device.
 - Fully offline — no internet connection required
 
 ### Screenshots
-
+<p>
 <img src="log-screen.png" width="300">
 <img src="edit-measurement.png" width="300">
 <img src="history-screen.png" width="300">
 <img src="export-dialog.png" width="300">
+</P>
 
 ### Export screenshots
-
-<img src="pdf-report-portrait.png" width="300">
+<p>
 <img src="pdf-report-landscape.png" width="400">
-<img src="csv-export.png" width="400">
-
+<img src="csv-export-2.png" width="400">
+</p>
 ## CSV format
 Example:
 
