@@ -23,7 +23,10 @@ No account, no cloud, no analytics. Your data stays on your device.
 <img src="pdf-report-landscape.png" width="400">
 <img src="csv-export-2.png" width="400">
 </p>
+
+
 ## CSV format
+
 Example:
 
     timestamp,date,time,systolic,diastolic,pulse 
