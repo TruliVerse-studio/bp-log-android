@@ -10,6 +10,19 @@ No account, no cloud, no analytics. Your data stays on your device.
 - Export reports to PDF (including charts)
 - Fully offline — no internet connection required
 
+### Screenshots
+
+<img src="log-screen.png" width="300">
+<img src="edit-measurement.png" width="300">
+<img src="history-screen.png" width="300">
+<img src="export-dialog.png" width="300">
+
+### Export screenshots
+
+<img src="pdf-report-portrait.png" width="300">
+<img src="pdf-report-landscape.png" width="400">
+<img src="csv-export.png" width="400">
+
 ## CSV format
 Example:
 
