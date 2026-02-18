@@ -12,8 +12,10 @@ No account, no cloud, no analytics. Your data stays on your device.
 
 ## CSV format
 Example:
-timestamp,date,time,systolic,diastolic,pulse 
-2026-02-18T08:30:15.123,2026-02-18,08:30:15,128,82,65
+
+    timestamp,date,time,systolic,diastolic,pulse 
+    2026-02-18T08:30:15.123,2026-02-18,08:30:15,128,82,65
+
 
 Field description:
 
