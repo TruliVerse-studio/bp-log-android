@@ -30,19 +30,20 @@ No account, no cloud, no analytics. Your data stays on your device.
 Example:
 
     timestamp,date,time,systolic,diastolic,pulse 
-    2026-02-18T08:30:15.123,2026-02-18,08:30:15,128,82,65
+    1771349886311,2026-02-17,18:38:06.311,128,100,90
 
 
 Field description:
 
-- `timestamp` — ISO datetime including milliseconds
+- `timestamp` — Unix timestamp in milliseconds (UTC)
 - `date` — YYYY-MM-DD
-- `time` — HH:MM:SS (24h format)
+- `time` — HH:MM:SS.SSS (24h format)
 - `systolic` — mmHg
 - `diastolic` — mmHg
 - `pulse` — bpm
 
-Times are stored using the device's local time.
+Date and time fields reflect the device's local time.
+Timestamp is stored as Unix epoch milliseconds (UTC).
 
 ## Privacy
 BP-Log does not collect, store, or transmit personal data.
